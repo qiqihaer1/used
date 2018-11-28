@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="flume_tomcat01:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/flume_tomcat01_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="flume_tomcat01/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

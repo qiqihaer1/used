@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="datacreate" />
+        <module name="ear" />
+        <module name="ejbs" />
+        <module name="flume_01" />
+        <module name="flume_hive" />
+        <module name="flume_web01" />
+        <module name="hbase_01" />
+        <module name="hbase_chart" />
+        <module name="hdfs" />
+        <module name="hdfs01" />
+        <module name="hive_01" />
+        <module name="hive_hbase" />
+        <module name="hive_udf" />
+        <module name="jeecmsv9f" />
+        <module name="kafka_01" />
+        <module name="logging" />
+        <module name="mapreduce_01" />
+        <module name="mapreduce_02" />
+        <module name="mapreduce_smallcombine" />
+        <module name="monitor_hdfs" />
+        <module name="monitor_hdfs_hive1" />
+        <module name="mr_location_rank" />
+        <module name="mr_name_total" />
+        <module name="my_web" />
+        <module name="primary-source" />
+        <module name="radis" />
+        <module name="redis_chart" />
+        <module name="scala_01" />
+        <module name="servlet" />
+        <module name="spark01" />
+        <module name="spark02" />
+        <module name="spark03" />
+        <module name="spark04" />
+        <module name="storm_01" />
+        <module name="storm_kafka" />
+        <module name="zookeeper_01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chart_web" target="1.7" />
+      <module name="charts" target="1.7" />
+      <module name="datacreate" target="1.7" />
+      <module name="ear" target="1.7" />
+      <module name="Echarts" target="1.7" />
+      <module name="ejbs" target="1.7" />
+      <module name="flume_01" target="1.7" />
+      <module name="flume_hive" target="1.7" />
+      <module name="flume_tomcat01" target="1.7" />
+      <module name="flume_web01" target="1.7" />
+      <module name="hbase_01" target="1.7" />
+      <module name="hbase_chart" target="1.7" />
+      <module name="hdfs01" target="1.7" />
+      <module name="hive_01" target="1.7" />
+      <module name="hive_hbase" target="1.7" />
+      <module name="hive_hbase_chart" target="1.7" />
+      <module name="hive_showtables" target="1.7" />
+      <module name="hive_sql" target="1.7" />
+      <module name="hive_udf" target="1.7" />
+      <module name="jeecmsv9f" target="1.7" />
+      <module name="kafka_01" target="1.7" />
+      <module name="kd0301" target="1.7" />
+      <module name="logging" target="1.7" />
+      <module name="mapreduce_01" target="1.7" />
+      <module name="mapreduce_02" target="1.7" />
+      <module name="mapreduce_smallcombine" target="1.7" />
+      <module name="monitor_hdfs" target="1.7" />
+      <module name="monitor_hdfs_hive1" target="1.7" />
+      <module name="mr_location_rank" target="1.7" />
+      <module name="mr_name_total" target="1.7" />
+      <module name="my_charts" target="1.7" />
+      <module name="my_web" target="1.7" />
+      <module name="my_web2" target="1.7" />
+      <module name="primary-source" target="1.7" />
+      <module name="projects" target="1.7" />
+      <module name="radis" target="1.7" />
+      <module name="redis_chart" target="1.7" />
+      <module name="scala_01" target="1.7" />
+      <module name="servlet" target="1.7" />
+      <module name="servlets" target="1.7" />
+      <module name="ShowEcharts" target="1.7" />
+      <module name="showtables_SSM" target="1.8" />
+      <module name="sitesimple" target="1.7" />
+      <module name="spark01" target="1.7" />
+      <module name="spark02" target="1.7" />
+      <module name="spark03" target="1.7" />
+      <module name="spark04" target="1.7" />
+      <module name="storm_01" target="1.7" />
+      <module name="storm_kafka" target="1.7" />
+      <module name="zookeeper_01" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

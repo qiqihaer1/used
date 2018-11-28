@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="my_charts:war">
+    <output-path>$PROJECT_DIR$/my_charts/target</output-path>
+    <root id="archive" name="my_charts.war">
+      <element id="artifact" artifact-name="my_charts:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hbase_chart:war">
+    <output-path>$PROJECT_DIR$/hbase_chart/target</output-path>
+    <root id="archive" name="hbase_chart.war">
+      <element id="artifact" artifact-name="hbase_chart:war exploded" />
+    </root>
+  </artifact>
+</component>

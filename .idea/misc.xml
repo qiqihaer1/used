@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="ejb" url="file://$PROJECT_DIR$/Echarts/ejbs" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/Echarts/ear" />
+    <file type="web" url="file://$PROJECT_DIR$/chart_web" />
+    <file type="web" url="file://$PROJECT_DIR$/Echarts/servlets/servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/flume_web01" />
+    <file type="web" url="file://$PROJECT_DIR$/hbase_chart" />
+    <file type="web" url="file://$PROJECT_DIR$/hive_showtables" />
+    <file type="web" url="file://$PROJECT_DIR$/jeecmsv9f" />
+    <file type="web" url="file://$PROJECT_DIR$/jeecmsv9f" />
+    <file type="web" url="file://$PROJECT_DIR$/my_charts" />
+    <file type="web" url="file://$PROJECT_DIR$/my_web" />
+    <file type="web" url="file://$PROJECT_DIR$/redis_chart" />
+    <file type="web" url="file://$PROJECT_DIR$/ShowEcharts" />
+    <file type="web" url="file://$PROJECT_DIR$/showtables_SSM" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/vue_project/pom.xml" />
+        <option value="$PROJECT_DIR$/abcproject/pom.xml" />
+        <option value="$PROJECT_DIR$/jeecmsv9f/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Echarts/pom.xml" />
+        <option value="$PROJECT_DIR$/ShowEcharts/pom.xml" />
+        <option value="$PROJECT_DIR$/chart_web/pom.xml" />
+        <option value="$PROJECT_DIR$/charts/pom.xml" />
+        <option value="$PROJECT_DIR$/flume_tomcat01/pom.xml" />
+        <option value="$PROJECT_DIR$/hdfs_01/pom.xml" />
+        <option value="$PROJECT_DIR$/hive_hbase_chart/pom.xml" />
+        <option value="$PROJECT_DIR$/hive_showtables/pom.xml" />
+        <option value="$PROJECT_DIR$/hive_sql/pom.xml" />
+        <option value="$PROJECT_DIR$/my_charts/pom.xml" />
+        <option value="$PROJECT_DIR$/my_web2/pom.xml" />
+        <option value="$PROJECT_DIR$/showtables_SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/sitesimple/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

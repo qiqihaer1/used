@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hive_showtables:war">
+    <output-path>$PROJECT_DIR$/hive_showtables/target</output-path>
+    <root id="archive" name="hive_showtables.war">
+      <element id="artifact" artifact-name="hive_showtables:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datacreate/datacreate.iml" filepath="$PROJECT_DIR$/datacreate/datacreate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume_01/flume_01.iml" filepath="$PROJECT_DIR$/flume_01/flume_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume_hive/flume_hive.iml" filepath="$PROJECT_DIR$/flume_hive/flume_hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume_web01/flume_web01.iml" filepath="$PROJECT_DIR$/flume_web01/flume_web01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase_01/hbase_01.iml" filepath="$PROJECT_DIR$/hbase_01/hbase_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase_chart/hbase_chart.iml" filepath="$PROJECT_DIR$/hbase_chart/hbase_chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs01/hdfs01.iml" filepath="$PROJECT_DIR$/hdfs01/hdfs01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive_01/hive_01.iml" filepath="$PROJECT_DIR$/hive_01/hive_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive_hbase/hive_hbase.iml" filepath="$PROJECT_DIR$/hive_hbase/hive_hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive_udf/hive_udf.iml" filepath="$PROJECT_DIR$/hive_udf/hive_udf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeecmsv9f/jeecmsv9f.iml" filepath="$PROJECT_DIR$/jeecmsv9f/jeecmsv9f.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_01/kafka_01.iml" filepath="$PROJECT_DIR$/kafka_01/kafka_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kd0301.iml" filepath="$PROJECT_DIR$/kd0301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce_01/mapreduce_01.iml" filepath="$PROJECT_DIR$/mapreduce_01/mapreduce_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce_02/mapreduce_02.iml" filepath="$PROJECT_DIR$/mapreduce_02/mapreduce_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce_smallcombine/mapreduce_smallcombine.iml" filepath="$PROJECT_DIR$/mapreduce_smallcombine/mapreduce_smallcombine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor_hdfs_hive1/monitor_hdfs_hive1.iml" filepath="$PROJECT_DIR$/monitor_hdfs_hive1/monitor_hdfs_hive1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mr_location_rank/mr_location_rank.iml" filepath="$PROJECT_DIR$/mr_location_rank/mr_location_rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mr_name_total/mr_name_total.iml" filepath="$PROJECT_DIR$/mr_name_total/mr_name_total.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_web/my_web.iml" filepath="$PROJECT_DIR$/my_web/my_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis_chart/redis_chart.iml" filepath="$PROJECT_DIR$/redis_chart/redis_chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala01/scala01.iml" filepath="$PROJECT_DIR$/scala01/scala01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark01/spark01.iml" filepath="$PROJECT_DIR$/spark01/spark01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark02/spark02.iml" filepath="$PROJECT_DIR$/spark02/spark02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark03/spark03.iml" filepath="$PROJECT_DIR$/spark03/spark03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark04/spark04.iml" filepath="$PROJECT_DIR$/spark04/spark04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm_01/storm_01.iml" filepath="$PROJECT_DIR$/storm_01/storm_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm_kafka/storm_kafka.iml" filepath="$PROJECT_DIR$/storm_kafka/storm_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper_01/zookeeper_01.iml" filepath="$PROJECT_DIR$/zookeeper_01/zookeeper_01.iml" />
+    </modules>
+  </component>
+</project>

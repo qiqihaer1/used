@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="showtables_SSM:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/showtables_SSM_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="showtables_SSM/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
